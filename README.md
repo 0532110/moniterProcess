@@ -1,5 +1,5 @@
 建议在linux下编译:
-> go build moniterProcess.go function.go
+> go build moniterProcess.go publicFunction.go
 
 [process]
 process=chrome # 要监控的进程名
