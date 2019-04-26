@@ -4,7 +4,6 @@
 
 config.ini 配置文件参数：
 
-[process]
 process=chrome # 要监控的进程名
 sleep=3        # 间隔时间
 
